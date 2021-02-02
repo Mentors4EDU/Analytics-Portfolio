@@ -24,5 +24,5 @@
 ![Equation17](https://latex.codecogs.com/gif.latex?Max%3A%2070X_1&plus;40X_2) \
 ![Equation18](https://latex.codecogs.com/gif.latex?X_1&plus;X_2%5Cleq%20700) \
 ![Equation19](https://latex.codecogs.com/gif.latex?X_1-X_2%5Cleq%20300) \
-![Equation20](https://latex.codecogs.com/gif.latex?2X_1&plus;X_2%5Cleq%20900)
-
+![Equation20](https://latex.codecogs.com/gif.latex?2X_1&plus;X_2%5Cleq%20900) \
+![Equation21](https://latex.codecogs.com/gif.latex?3X_1&plus;4X_2%5Cleq%202400)
