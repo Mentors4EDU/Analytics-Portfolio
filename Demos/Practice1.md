@@ -34,4 +34,6 @@
 ![Equation24](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78) \
 ![Equation25](https://latex.codecogs.com/gif.latex?%28%28122%28X%29&plus;%2878%28X%29%29/X%29%3D200) \
 ![Equation26](https://latex.codecogs.com/gif.latex?9*122&plus;6*78%3D1098&plus;468%3D1566) \
-![Equation27](https://latex.codecogs.com/gif.latex?%2812*122%29&plus;%2816*78%29%3D%281464&plus;1248%29%3D2712)
+![Equation27](https://latex.codecogs.com/gif.latex?%2812*122%29&plus;%2816*78%29%3D%281464&plus;1248%29%3D2712) \
+![Equation28](https://latex.codecogs.com/gif.latex?X_1%3D108%2C%20X_2%3D99%2C%20X_1&plus;X_2%3D207%2C%20Min%20%3D%203%2C%20Max%20%3D%207%20pumps%2C%2067500-66100%3D1400%20USD) \
+![Equation29](https://latex.codecogs.com/gif.latex?207-%28200%20used%29%3D%207%20pumps)
