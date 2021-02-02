@@ -20,7 +20,7 @@
 ![Graph2](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Screenshot%20from%202021-02-01%2023-42-22.png) \
 ![Equation16](https://latex.codecogs.com/gif.latex?max_z%3D6X_1%28400%29&plus;4.5X_2%281000%29%3D%3D%202400&plus;4500%3D6900%2C%20so%2C%20X_1%3D400%2C%20X_2%3D1000%2C%20value%20%3D%206900%20USD)
 
-##  Problem #3
+###  Problem #3
 ![Equation17](https://latex.codecogs.com/gif.latex?Max%3A%2070X_1&plus;40X_2) \
 ![Equation18](https://latex.codecogs.com/gif.latex?X_1&plus;X_2%5Cleq%20700) \
 ![Equation19](https://latex.codecogs.com/gif.latex?X_1-X_2%5Cleq%20300) \
@@ -29,3 +29,6 @@
 ![Equation22](https://latex.codecogs.com/gif.latex?LP%20Model%3A%20Max%3A%2070X_1&plus;40X_2%20%3A%3A%20X_1&plus;X_2%5Cleq%20700%2C%20X_1-X_2%5Cleq%20300%2C%202X_1&plus;X_2%5Cleq%20900%2C%203X_1&plus;4X_2%5Cleq%202400%2C%20%28X_1%2CX_2%5Cgeq%200%29) \
 ![Graph3](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Screenshot%20from%202021-02-02%2000-04-38.png) \
 ![Equation23](https://latex.codecogs.com/gif.latex?Max_z%20Optimal%3A%20X_1%3D240%2C%20X_2%3D420%3B%20Value%20%3D%2033600%20USD)
+
+### Problem 4
+![Equation24](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78)
