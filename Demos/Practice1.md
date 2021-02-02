@@ -39,4 +39,4 @@
 ![Equation29](https://latex.codecogs.com/gif.latex?207-%28200%20used%29%3D%207%20pumps) \
 ![Equation30](https://latex.codecogs.com/gif.latex?9X_1&plus;6X_2%3D1800%2C%201800-1566%3D234%2C%2070000-66100%3D3900USD) \
 ![Equation31](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78%20%5CRightarrow%204000) \
-![Equation33](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D183%2C%20X_2%3D17%20%5Cleftrightarrow%2069150-66100%3D3050USD)
+![Equation32](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D183%2C%20X_2%3D17%20%5Cleftrightarrow%2069150-66100%3D3050USD)
