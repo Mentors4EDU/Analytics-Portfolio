@@ -1,3 +1,4 @@
+### Problem #1
 ![Equation1](https://latex.codecogs.com/gif.latex?Max%3A%2090x_1&plus;%20120x_2) \
 ![Equation2](https://latex.codecogs.com/gif.latex?0.2X_1&plus;0.3X_2%5Cgeq%208) \
 ![Equation3](https://latex.codecogs.com/gif.latex?0.2X_1&plus;0.25X_2%5Cgeq%206) \
@@ -6,3 +7,6 @@
 ![Graph1](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Screenshot_2021-02-01%20Graphing%20Calculator%20-%20MathPapa.png) \
 ![Equation6](https://latex.codecogs.com/gif.latex?0.15X_1&plus;0.10X_2%5Cgeq%205%20%5Ccup%200.2X_1&plus;0.3X_2%5Cgeq%208) \
 ![Equation7](https://latex.codecogs.com/gif.latex?90x%2828%29&plus;120%28x%298%3D2520x&plus;960x%3D3480%20Tons) 
+
+### Problem #2
+![Equation8](https://latex.codecogs.com/gif.latex?Max%3A%206X_1&plus;4.5X_2) 
