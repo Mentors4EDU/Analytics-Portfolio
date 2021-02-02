@@ -16,4 +16,5 @@
 ![Equation12](https://latex.codecogs.com/gif.latex?2.5X_1&plus;2X_2%5Cleq%203500) \
 ![Equation13](https://latex.codecogs.com/gif.latex?1X_1&plus;1X_2%5Cleq%201500) \
 ![Equation14](https://latex.codecogs.com/gif.latex?X_1%2CX_2%5Cgeq%200) \
-![Equation15](https://latex.codecogs.com/gif.latex?LP%20Model%3A%20Max%3A%206X_1&plus;4.5X_2%20%3A%3A%205X_1&plus;4X_2%5Cleq%206000%2C%206X_1&plus;3X_2%5Cleq%205400%2C%204X_1&plus;2X_2%5Cleq%204000%2C%202.5X_1&plus;2X_2%5Cleq%203500%2C%20X_1&plus;X_2%5Cleq%201500%2C%20%28X_1%2CX_2%5Cgeq%200%29)
+![Equation15](https://latex.codecogs.com/gif.latex?LP%20Model%3A%20Max%3A%206X_1&plus;4.5X_2%20%3A%3A%205X_1&plus;4X_2%5Cleq%206000%2C%206X_1&plus;3X_2%5Cleq%205400%2C%204X_1&plus;2X_2%5Cleq%204000%2C%202.5X_1&plus;2X_2%5Cleq%203500%2C%20X_1&plus;X_2%5Cleq%201500%2C%20%28X_1%2CX_2%5Cgeq%200%29) \
+![Graph2](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Screenshot%20from%202021-02-01%2023-42-22.png)
