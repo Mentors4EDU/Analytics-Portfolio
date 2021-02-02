@@ -41,4 +41,14 @@
 ![Equation31](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78%20%5CRightarrow%204000) \
 ![Equation32](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D183%2C%20X_2%3D17%20%5Cleftrightarrow%2069150-66100%3D3050USD) \
 ![Equation33](https://latex.codecogs.com/gif.latex?X_1%3D200%20%5CRightarrow%2070000-69150%3D850USD) \
-![Equation34](https://latex.codecogs.com/gif.latex?Profit%20%3D%2070000USD)
+![Equation34](https://latex.codecogs.com/gif.latex?Profit%20%3D%2070000USD) \
+![Equation35](https://latex.codecogs.com/gif.latex?X_1%3D141.5%2C%20X_2%3D58.50%20%5Cleftrightarrow%2067075-66100%3D975USD) \
+![Equation36](https://latex.codecogs.com/gif.latex?X_1%3D153.20%2C%20X_2%3D46.80%20%5CRightarrow%20585%20USD) \
+![Equation37](https://latex.codecogs.com/gif.latex?X_1%3D161%2C%20X_2%3D39%20%5CRightarrow%20390%20USD%3B%20X_1%3D122%2C%20X_2%3D78%20%5CRightarrow%20No%20%5Csqsubset%20Profit%20%5Csqsubset%20Increase) \
+![Equation38](https://latex.codecogs.com/gif.latex?11%20%3A%3A%2010%2C%20No%20%5Csqsubset%20Change) \
+![Equation39](https://latex.codecogs.com/gif.latex?10%20%3A%3A%209%2C%20No%20%5Csqsubset%20Change) \
+![Equation40](https://latex.codecogs.com/gif.latex?16%20%3A%3A%2015%2C%20No%20%5Csqsubset%20Change) \
+![Equation41](https://latex.codecogs.com/gif.latex?15%20%3A%3A%2014%2C%20No%20%5Csqsubset%20Change) \
+![Equation42](https://latex.codecogs.com/gif.latex?14%20%3A%3A%2013%2C%20No%20%5Csqsubset%20Change) \
+![Equation43](https://latex.codecogs.com/gif.latex?X_1%3D174%2C%20X_2%3D0%5CRightarrow%20450%20USD) \
+![Equation44](https://latex.codecogs.com/gif.latex?X_1%3D80%2C%20X_2%3D120%5CRightarrow%20349%20USD)
