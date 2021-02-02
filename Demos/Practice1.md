@@ -9,4 +9,10 @@
 ![Equation7](https://latex.codecogs.com/gif.latex?90x%2828%29&plus;120%28x%298%3D2520x&plus;960x%3D3480%20Tons) 
 
 ### Problem #2
-![Equation8](https://latex.codecogs.com/gif.latex?Max%3A%206X_1&plus;4.5X_2) 
+![Equation8](https://latex.codecogs.com/gif.latex?Max%3A%206X_1&plus;4.5X_2) \
+![Equation9](https://latex.codecogs.com/gif.latex?5X_1&plus;4X_2%5Cleq%206000) \
+![Equation10](https://latex.codecogs.com/gif.latex?6X_1&plus;3X_2%5Cleq%205400) \
+![Equation11](https://latex.codecogs.com/gif.latex?4X_1&plus;2X_2%5Cleq%204000) \
+![Equation12](https://latex.codecogs.com/gif.latex?2.5X_1&plus;2X_2%5Cleq%203500) \
+![Equation13](https://latex.codecogs.com/gif.latex?1X_1&plus;1X_2%5Cleq%201500) \
+![Equation14](https://latex.codecogs.com/gif.latex?X_1%2CX_2%5Cgeq%200)
