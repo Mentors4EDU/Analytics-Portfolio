@@ -50,5 +50,5 @@
 ![Equation40](https://latex.codecogs.com/gif.latex?16%20%3A%3A%2015%2C%20No%20%5Csqsubset%20Change) \
 ![Equation41](https://latex.codecogs.com/gif.latex?15%20%3A%3A%2014%2C%20No%20%5Csqsubset%20Change) \
 ![Equation42](https://latex.codecogs.com/gif.latex?14%20%3A%3A%2013%2C%20No%20%5Csqsubset%20Change) \
-![Equation43](https://latex.codecogs.com/gif.latex?X_1%3D174%2C%20X_2%3D0%5CRightarrow%20450%20USD) \
+![Equation43](https://latex.codecogs.com/gif.latex?X_1%3D174%5CRightarrow%20450%20USD) \
 ![Equation44](https://latex.codecogs.com/gif.latex?X_1%3D80%2C%20X_2%3D120%5CRightarrow%20349%20USD)
