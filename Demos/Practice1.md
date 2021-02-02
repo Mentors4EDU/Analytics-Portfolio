@@ -31,4 +31,7 @@
 ![Equation23](https://latex.codecogs.com/gif.latex?Max_z%20Optimal%3A%20X_1%3D240%2C%20X_2%3D420%3B%20Value%20%3D%2033600%20USD)
 
 ### Problem 4
-![Equation24](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78)
+![Equation24](https://latex.codecogs.com/gif.latex?Optimal%20%3A%20X_1%3D122%2C%20X_2%3D78) \
+![Equation25](https://latex.codecogs.com/gif.latex?%28%28122%28X%29&plus;%2878%28X%29%29/X%29%3D200) \
+![Equation26](https://latex.codecogs.com/gif.latex?9*122&plus;6*78%3D1098&plus;468%3D1566) \
+![Equation27](https://latex.codecogs.com/gif.latex?%2812*122%29&plus;%2816*78%29%3D%281464&plus;1248%29%3D2712)
