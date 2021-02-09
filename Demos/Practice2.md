@@ -32,4 +32,7 @@
 ``$H$14:$H$16<=$I$14:$I$16``\
 ``$C$17:$G$17=$C$18:$G$18`` \
 ![Equation22](https://latex.codecogs.com/gif.latex?Optimal%3A1258%20min) \
-![Equation23](https://latex.codecogs.com/gif.latex?A%3D2min%2C%20B%3D180min%2C%20C%3D0min)
+![Equation23](https://latex.codecogs.com/gif.latex?A%3D2min%2C%20B%3D180min%2C%20C%3D0min) \
+``$H$14=$H$15`` \
+``$H$14=$H$16`` \
+![Equation24](https://latex.codecogs.com/gif.latex?Optimal%3A%201277min) 
