@@ -24,4 +24,9 @@
 ![Equation18](https://latex.codecogs.com/gif.latex?Min%3A%20%7B3A_1&plus;4A_2&plus;4A_3&plus;5A_4&plus;3A_5&plus;5B_1&plus;3B_2&plus;5B_3&plus;4B_4&plus;5B_3&plus;2C_2&plus;5C_2&plus;3C_3&plus;3C_4&plus;4C_5%7D) \
 ![Equation19](https://latex.codecogs.com/gif.latex?A_1&plus;....A_5%5Cleq%20480%2C%20B_1&plus;....B_5%5Cleq%20480%2C%20C_1&plus;....C_5%5Cleq%20480) \
 ![Equation20](https://latex.codecogs.com/gif.latex?A_1&plus;B_1&plus;C_1...A_5&plus;B_5&plus;C_5%3D%7B80%2C75%2C80%2C120%2C60%7D) \
-![Equation21](https://latex.codecogs.com/gif.latex?A_1...5%2C%20B_1...5%2C%20C_1...5%5Cgeq%200)
+![Equation21](https://latex.codecogs.com/gif.latex?A_1...5%2C%20B_1...5%2C%20C_1...5%5Cgeq%200) \
+``H14=SUMPRODUCT(C6:G8,C14:G16)`` \
+``C17=SUM(C14:C16)`` \
+``D17:G17`` \
+``$E$20:{$C$14:$F$16}`` \
+``$H$14:$H$16<=$I$14:$I$16``
