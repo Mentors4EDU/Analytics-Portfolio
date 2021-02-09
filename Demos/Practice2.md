@@ -41,4 +41,6 @@
 ![Equation25](https://latex.codecogs.com/gif.latex?min%5Csum%20y%27%27*c%27%27%2C%28i%2Cj%29%3D1%2C2%2C3%2C4) \
 ![Equation26](https://latex.codecogs.com/gif.latex?min%5Csum%20y%27%27*s%27%27%2C%5Bi%3D1%2C2%2C3%2C4%2C%20j%3D1%2C2%2C3%20%5D) \
 ![Equation27](https://latex.codecogs.com/gif.latex?Y_11&plus;Y_12&plus;Y_13%5Cleq%20600) \
-![Equation28](https://latex.codecogs.com/gif.latex?Y_21&plus;Y_22&plus;Y_23%5Cleq%20500)
+![Equation28](https://latex.codecogs.com/gif.latex?Y_21&plus;Y_22&plus;Y_23%5Cleq%20500) \
+![Equation29](https://latex.codecogs.com/gif.latex?Y_31&plus;Y_32&plus;Y_33%5Cleq%20300) \
+![Equation30](https://latex.codecogs.com/gif.latex?0.85Y_11&plus;0.9Y_21&plus;0.9Y_31&plus;0.8Y_41%5Cgeq%20500)
