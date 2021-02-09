@@ -55,8 +55,8 @@
 ``D9=SUMPRODUCT(D26:D29,D5:C8)`` \
 ``E9=SUMPRODUCT(E26:E29,E5:E8)`` \
 ``I=SUMPRODUCT(C5:F8,C14:F17)`` \
-``J=SUMPRODUCT(C5:E8,C20:E23)``
+``J=SUMPRODUCT(C5:E8,C20:E23)`` \
 ![Equation34](https://latex.codecogs.com/gif.latex?Cost%3A%2045.10670K%2C%20Formation%3A%20163839.29) \
-![Equation35](https://latex.codecogs.com/gif.latex?minmax%3D0.01978)
-``USE SUMPRODUCT AGAIN``
+![Equation35](https://latex.codecogs.com/gif.latex?minmax%3D0.01978) \
+``USE SUMPRODUCT AGAIN`` \
 ![Equation36](https://latex.codecogs.com/gif.latex?minmax%3D0.03753)
