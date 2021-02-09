@@ -60,3 +60,13 @@
 ![Equation35](https://latex.codecogs.com/gif.latex?minmax%3D0.01978) \
 ``USE SUMPRODUCT AGAIN`` \
 ![Equation36](https://latex.codecogs.com/gif.latex?minmax%3D0.03753)
+
+### Problem #4
+``$M$24`` \
+``$C$9:$L$9 <= $C$14``\
+``$C$7:$L$8 >= 0`` \
+``$C$7:$L$7 <= $C$11:$L$11`` \
+``$C$8:$L$8 <= $C$12:$L$12`` \
+``$C$7:$L$7 <= $C$6:$L$6`` \
+![Equation37](https://latex.codecogs.com/gif.latex?Optimal%3A%201%2C309%2C903%20USD) \
+*This is an optimal model that updates every single day, since it is based on bid and ask, this model works all the time*
