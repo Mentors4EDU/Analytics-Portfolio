@@ -36,3 +36,7 @@
 ``$H$14=$H$15`` \
 ``$H$14=$H$16`` \
 ![Equation24](https://latex.codecogs.com/gif.latex?Optimal%3A%201277min) 
+
+### Problem #3
+![Equation25](https://latex.codecogs.com/gif.latex?min%5Csum%20y%27%27*c%27%27%2C%28i%2Cj%29%3D1%2C2%2C3%2C4) \
+![Equation26](https://latex.codecogs.com/gif.latex?min%5Csum%20y%27%27*s%27%27%2C%5Bi%3D1%2C2%2C3%2C4%2C%20j%3D1%2C2%2C3%20%5D) 
