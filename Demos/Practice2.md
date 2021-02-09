@@ -30,5 +30,5 @@
 ``D17:G17`` \
 ``$E$20:{$C$14:$F$16}`` \
 ``$H$14:$H$16<=$I$14:$I$16``\
-``$C$17:$G$17=$C$18:$G$18``
+``$C$17:$G$17=$C$18:$G$18`` \
 ![Equation22](https://latex.codecogs.com/gif.latex?Optimal%3A1258%20min)
