@@ -46,4 +46,17 @@
 ![Equation30](https://latex.codecogs.com/gif.latex?0.85Y_11&plus;0.9Y_21&plus;0.9Y_31&plus;0.8Y_41%5Cgeq%20500) \
 ![Equation31](https://latex.codecogs.com/gif.latex?0.8Y_12&plus;0.8Y_22&plus;0.8Y_32&plus;0.7Y_42%5Cgeq%20600) \
 ![Equation32](https://latex.codecogs.com/gif.latex?0.7Y_23&plus;0.8Y_33%5Cgeq%20300) \
-![Equation33](https://latex.codecogs.com/gif.latex?Y%27%27%5Cgeq%200%2C%20%28%5Cforall%20i%2C%20j%29)
+![Equation33](https://latex.codecogs.com/gif.latex?Y%27%27%5Cgeq%200%2C%20%28%5Cforall%20i%2C%20j%29) \
+``F5=SUM(C5:E5)`` \
+``F6=SUM(C6:E6)`` \
+``F7=SUM(C7:E7)`` \
+``F8=SUM(C8:E8)`` \
+``C9=SUMPRODUCT(C26:C29,C5:C8)`` \
+``D9=SUMPRODUCT(D26:D29,D5:C8)`` \
+``E9=SUMPRODUCT(E26:E29,E5:E8)`` \
+``I=SUMPRODUCT(C5:F8,C14:F17)`` \
+``J=SUMPRODUCT(C5:E8,C20:E23)``
+![Equation34](https://latex.codecogs.com/gif.latex?Cost%3A%2045.10670K%2C%20Formation%3A%20163839.29) \
+![Equation35](https://latex.codecogs.com/gif.latex?minmax%3D0.01978)
+``USE SUMPRODUCT AGAIN``
+![Equation36](https://latex.codecogs.com/gif.latex?minmax%3D0.03753)
