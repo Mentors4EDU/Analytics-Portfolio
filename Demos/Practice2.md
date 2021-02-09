@@ -12,4 +12,10 @@
 ![Equation10](https://latex.codecogs.com/gif.latex?X_3&plus;Y_3&plus;Z_3%5Cgeq%20500) \
 ![Equation5](https://latex.codecogs.com/gif.latex?X_1...3%5Cleq%20300%2C%20Y_1...3%5Cleq%20300) \
 ![Equation6](https://latex.codecogs.com/gif.latex?X_1...3%5Cgeq%200%2C%20Y_1...3%5Cgeq%200) \
-![Equation11](https://latex.codecogs.com/gif.latex?X_1..3%5Cgeq%200%2C%20Y_1..3%5Cgeq%200%2C%20Z_1..3%5Cgeq%200)
+![Equation11](https://latex.codecogs.com/gif.latex?X_1..3%5Cgeq%200%2C%20Y_1..3%5Cgeq%200%2C%20Z_1..3%5Cgeq%200) \
+![Equation12](https://latex.codecogs.com/gif.latex?X_1%3D0%2C%20X_2%3D100%2C%20X_3%3D200) \
+![Equation13](https://latex.codecogs.com/gif.latex?Y_1..3%3D300) \
+![Equation14](https://latex.codecogs.com/gif.latex?Z1..3%3D0) \
+![Equation15](https://latex.codecogs.com/gif.latex?Optimal%3A%20444*10%5E3%20dollars%20%3D%20444k) \
+![Equation16](https://latex.codecogs.com/gif.latex?@50%3A%20445.5K) \
+![Equation17](https://latex.codecogs.com/gif.latex?@100%3A%20448K)
