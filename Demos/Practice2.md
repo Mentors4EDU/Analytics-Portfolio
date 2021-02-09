@@ -43,4 +43,6 @@
 ![Equation27](https://latex.codecogs.com/gif.latex?Y_11&plus;Y_12&plus;Y_13%5Cleq%20600) \
 ![Equation28](https://latex.codecogs.com/gif.latex?Y_21&plus;Y_22&plus;Y_23%5Cleq%20500) \
 ![Equation29](https://latex.codecogs.com/gif.latex?Y_31&plus;Y_32&plus;Y_33%5Cleq%20300) \
-![Equation30](https://latex.codecogs.com/gif.latex?0.85Y_11&plus;0.9Y_21&plus;0.9Y_31&plus;0.8Y_41%5Cgeq%20500)
+![Equation30](https://latex.codecogs.com/gif.latex?0.85Y_11&plus;0.9Y_21&plus;0.9Y_31&plus;0.8Y_41%5Cgeq%20500) \
+![Equation31](https://latex.codecogs.com/gif.latex?0.8Y_12&plus;0.8Y_22&plus;0.8Y_32&plus;0.7Y_42%5Cgeq%20600) \
+![Equation32](https://latex.codecogs.com/gif.latex?0.7Y_23&plus;0.8Y_33%5Cgeq%20300)
