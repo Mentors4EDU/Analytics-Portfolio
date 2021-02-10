@@ -1,2 +1,2 @@
 ## Analytics Portfolio
-*Analytics portfolio for data analysis and linear optimization/programming*
+*An analytics portfolio for data analysis and linear optimization/programming*
