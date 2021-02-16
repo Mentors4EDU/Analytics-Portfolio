@@ -31,8 +31,8 @@ Formulas are ``SUM`` and ``PRODUCT`` or ``*`` \
 **d)** The total cost actually increases from $43.9106K to $44.06774K, so obviously not \
 **e)** Given the sensitivity report: newsprint is $28.99, packaging is $36.43 and print is $37.70 (rounded) \
 **f)** The cost would have to drop by $1.87 to be economical \
-**g)** I believe the increase woule be a dollar or 15.38% \ 
-**h)** Again w/ the spider diagrams :). The margin implications is that newsprint is cheapest, and the stock print is most expensive. Packaging is near the cost of the stock print.  \
+**g)** I believe the increase would be a dollar or 15.38% \
+**h)** Again w/ the spider diagrams :). The margin implications is that newsprint is cheapest, and the stock print is most expensive. Packaging is near the cost of the stock print. \
 **i)** Same thing w/ f in regards to spider plots, but I believe a carboard increase is most reasonable given it is still already the lowest percentage yield. If you are going by cost over recycling yield, which I guess you are, it is actually the white office paper for newsprint.  
       
 ### Problem #27
