@@ -33,7 +33,7 @@ Formulas are ``SUM`` and ``PRODUCT`` or ``*`` \
 **f)** The cost would have to drop by $1.87 to be economical \
 **g)** I believe the increase woule be a dollar or 15.38% \ 
 **h)** Again w/ the spider diagrams :). The margin implications is that newsprint is cheapest, and the stock print is most expensive. Packaging is near the cost of the stock print.  \
-**i)** Same thing w/ f in regards to spider plots, but I believe a carboard increase is most reasonable given it is still already the lowest percentage yield. If you are goingby cost over recycling yield, which I guess you are, it is actually the white office paper for newsprint.  
+**i)** Same thing w/ f in regards to spider plots, but I believe a carboard increase is most reasonable given it is still already the lowest percentage yield. If you are going by cost over recycling yield, which I guess you are, it is actually the white office paper for newsprint.  
       
 ### Problem #27
 The formulas used were ``SUM``, ``SUMPRODUCT`` and the data model generator w/ solver. I had to input for the cost of each day. \
