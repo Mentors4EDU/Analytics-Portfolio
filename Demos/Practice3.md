@@ -40,4 +40,4 @@ The formulas used were ``SUM``, ``SUMPRODUCT`` and the data model generator w/ s
 **a)** Again some people use linux, but for the ``$H$16`` cell for the spider plot for the data, likely the increase would plateau at $1.31K. This will happen around day 7. \
 **b)** The total profit is $1,309.90. Part a) is rounded. The capacity is 360Kcf \
 **c)** I believe for a 350Kcf unit, the company should pay around $4.214K \
-**d)** The company needs to demand to pay at least $1.0598K
+**d)** The company needs to demand to pay at least $1.0598K in regards to 50k more cubic feet.
