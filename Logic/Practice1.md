@@ -69,4 +69,14 @@ X | Y | X | 1 | 2 | 3 \
 ![circuit](https://user-images.githubusercontent.com/12502053/116830143-0e56eb00-ab76-11eb-8dfe-102e4071916c.png) \
 **#33** \
 F(x,y,z) = xyz + (y′ + z) \
-![circuit (2)](https://user-images.githubusercontent.com/12502053/116830560-149a9680-ab79-11eb-8978-81289a9ef75a.png)
+![circuit (2)](https://user-images.githubusercontent.com/12502053/116830560-149a9680-ab79-11eb-8978-81289a9ef75a.png) \
+**#36** \
+X | Y | Z | F \
+0 | 0 | 0 | 1 \
+0 | 0 | 1 | 1 \
+0 | 1 | 0 | 1 \
+0 | 1 | 1 | 1 \
+1 | 0 | 0 | 0 \
+1 | 0 | 1 | 1 \
+1 | 1 | 0 | 0 \
+1 | 1 | 1 | 1
