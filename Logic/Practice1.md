@@ -55,4 +55,15 @@ The 4th NAND gate is the **Sum** and the last one is the **Carry** \
 The input is x, y and z \
 The output is 1, 2 and 3 \
 X | Y | X | 1 | 2 | 3 \
+0 | 0 | 0 | 1 | 1 | 1 \
+0 | 0 | 1 | 1 | 1 | 0 \
+0 | 1 | 0 | 1 | 0 | 0 \
+0 | 1 | 1 | 1 | 1 | 0 \
+1 | 0 | 0 | 0 | 0 | 1 \
+1 | 0 | 1 | 0 | 1 | 1 \
+1 | 1 | 0 | 0 | 0 | 1 \
+1 | 1 | 1 | 0 | 0 | 0 \
+1 = x' \
+2 = x'y' + y'z + x'z \
+3 = y'z' + xy' xz' \
 ![circuit](https://user-images.githubusercontent.com/12502053/116830143-0e56eb00-ab76-11eb-8dfe-102e4071916c.png)
