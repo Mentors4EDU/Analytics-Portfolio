@@ -66,4 +66,7 @@ X | Y | X | 1 | 2 | 3 \
 1 = x' \
 2 = x'y' + y'z + x'z \
 3 = y'z' + xy' xz' \
-![circuit](https://user-images.githubusercontent.com/12502053/116830143-0e56eb00-ab76-11eb-8dfe-102e4071916c.png)
+![circuit](https://user-images.githubusercontent.com/12502053/116830143-0e56eb00-ab76-11eb-8dfe-102e4071916c.png) \
+**#33** \
+F(x,y,z) = xyz + (y′ + z) \
+![circuit (2)](https://user-images.githubusercontent.com/12502053/116830560-149a9680-ab79-11eb-8978-81289a9ef75a.png)
