@@ -47,4 +47,7 @@ x = xy + xy' \
 **b)**  x = x(y + y') \
 x= = xy + xy' \
 **#22** Considering XYZ is 0 in SOM form, \
-F = X'Y'Z' + X'YZ' + XY'Z + XYZ' + XYZ
+F = X'Y'Z' + X'YZ' + XY'Z + XYZ' + XYZ \
+**#30** \
+![circuit (1)](https://user-images.githubusercontent.com/12502053/116829999-693c1280-ab75-11eb-8e2a-82cc35163a7f.png) \
+The 4th NAND gate is the **Sum** and the last one is the **Carry**
