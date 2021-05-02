@@ -45,6 +45,6 @@ X | Y | A | B | C | D \
 0 | 0 | 0 | 1 | 0 | 0 \
 x = xy + xy' \
 **b)**  x = x(y + y') \
-x= = xy + xy'
+x= = xy + xy' \
 **#22** Considering XYZ is 0 in SOM form, \
 F = X'Y'Z' + X'YZ' + XY'Z + XYZ' + XYZ
