@@ -6,7 +6,10 @@
 The various stages are fetch, decode, execute, memory and write back. \
 Also, you have *IR* which is the Instruction Register, \
 *MAR* which is the *Memory Address Register* and \
-*MBR* which is the *Memory Buffer Register* \
+*MBR* which is the *Memory Buffer Register*. \
+First you store the instructions to be fetched, which is the buffering. \
+You decode and execute the instructions, store the results, \
+and write back the memory. \
 **#32** \
 **#33**  \
 **#38** \
