@@ -74,6 +74,18 @@ One HEX 0001
 Diff HEX 000A
 X HEX 0001
 ```
-**#38** \
+**#38**
+```ASSEMBLY
+Load A
+Add B
+```
+You look at the total addressible memory for A, before adding B. \
+Fetch + Load for A + B are 3X actions.
+```ASSEMBLY
+Load A
+Load B
+Add
+```
+Here you are doubling the actions w/ loading B then adding A, so 6X actions. \
 **#60** \
 **T or F**
