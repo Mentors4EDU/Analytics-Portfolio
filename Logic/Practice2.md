@@ -10,7 +10,54 @@ Also, you have *IR* which is the Instruction Register, \
 First you store the instructions to be fetched, which is the buffering. \
 You decode and execute the instructions, store the results, \
 and write back the memory. \
-**#32** \
+**#32**
+```ASSEMBLY
+ORG 100
+Load  A
+Store X      / Store A
+Load  B
+Store Y      / Store B
+JnS    Mul   / Multiplication
+Load  Sum          / Load result
+Store E      / E:= A x B
+Load  C
+Store X      / Repeat with C and D
+Load  D
+Store Y      
+JnS   Mul   
+Load  Sum       
+Store F      / F := C x D
+Load  E 
+Add   F     / Load problem
+Halt           / Terminate program
+A,      Dec ?        / Decrements
+B,      Dec ?         / (give valyes
+C,      Dec ?       
+D,     Dec ? /
+X,      Dec 0         
+Y,      Dec 0      
+Ctr,   Dec 0         / Count
+One, Dec 1       
+E,      Dec 0         / Buffer
+F,      Dec 0        
+Sum, Dec 0
+Mul,   Hex 0         / Store
+Load Y               
+Store Ctr            / Store counter
+Clear                           /Clear
+Store Sum          / Store Sum
+Loop, Load Sum /Load Sum
+Add   X               / Add variable
+Store Sum          / Store Sum Result
+
+           Load  Ctr
+           Subt  One          / Decrement counter
+           Store Ctr            / Store counter
+           Skip  Cond 400   / Conditional Loop
+           Jump Loop          / Continue
+           JumpI Mul           / Return
+           END
+```           
 **#33**  \
 **#38** \
 **#60** \
