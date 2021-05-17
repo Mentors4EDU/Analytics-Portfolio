@@ -58,7 +58,22 @@ Store Sum          / Store Sum Result
            JumpI Mul           / Return
            END
 ```           
-**#33**  \
+**#33**
+```ASSEMBLY
+Loop
+           Load X / Load X
+           Subt Diff / Check difference
+           Skipcond 400 / Condition
+           Jump End / End
+           Load X / Reload
+           Add One
+           Store X / X + 1
+           Jump Loop / Return
+End Halt / (end while)
+One HEX 0001
+Diff HEX 000A
+X HEX 0001
+```
 **#38** \
 **#60** \
 **T or F**
