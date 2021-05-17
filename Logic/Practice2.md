@@ -3,13 +3,7 @@
 **a)** 4M x 16 = 2^2(4) x 2^20(1m) x 2^1 = 2^23 = 23 bits \
 **b)** 4M x 16 = 2^2(4) x 2^20(1m) x 2^0 = 2^22 = 22 bits \
 **#19** \
-The various stages are fetch, decode, execute, memory and write back. \
-Also, you have *IR* which is the Instruction Register, \
-*MAR* which is the *Memory Address Register* and \
-*MBR* which is the *Memory Buffer Register*. \
-First you store the instructions to be fetched, which is the buffering. \
-You decode and execute the instructions, store the results, \
-and write back the memory. \
+The various stages are fetch, decode, execute, memory and write back. Also, you have *IR* which is the Instruction Register, *MAR* which is the *Memory Address Register* and *MBR* which is the *Memory Buffer Register*. First you store the instructions to be fetched, which is the buffering. You decode and execute the instructions, store the results, and write back the memory. \
 **#32**
 ```ASSEMBLY
 ORG 100
@@ -88,4 +82,5 @@ Add
 ```
 Here you are doubling the actions w/ loading B then adding A, so 6X actions. \
 **#60** \
+An asynchronous bus would be preffered given that the technology works better in this instance given that it uses flow control over clocking data transmitted.
 **T or F**
