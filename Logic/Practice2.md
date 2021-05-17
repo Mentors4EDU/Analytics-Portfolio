@@ -82,7 +82,7 @@ Add
 ```
 Here you are doubling the actions w/ loading B then adding A, so 6X actions. \
 **#60** \
-An asynchronous bus would be preffered given that the technology works better in this instance given that it uses flow control over clocking data transmitted. \
+An asynchronous bus would be preffered given that the technology works better in this instance, given that it uses flow control over clocking data transmitted. \
 **T or F**
 1. F
 2. T
