@@ -15,7 +15,8 @@ Byte order is 0x104...107 \
 **c)** \
 Little: 88 | 88 | 14 | 14 \
 Big: 14 | 14 | 88 | 88 \
-Byte order is 0x108...10B
-
+Byte order is 0x108...10B \
 **#7** \
-The data is not read correctly, because the byte orders are read and stored differently. For example, you can store in both decimal format or hexi or in binary to hexi versus binary to decimal. Since you have different byte orders and byte order capacities, the data has a higher chance of being formatted wrongly, being corrupted, or being needed to be converted to the right format. This can still be manageable and work out if done correctly from a software standpoint, but integrating conversion methods or formats, especially into firmware, is a pain, and not generally worth the extra hassle.
+The data is not read correctly, because the byte orders are read and stored differently. For example, you can store in both decimal format or hexi or in binary to hexi versus binary to decimal. Since you have different byte orders and byte order capacities, the data has a higher chance of being formatted wrongly, being corrupted, or being needed to be converted to the right format. This can still be manageable and work out if done correctly from a software standpoint, but integrating conversion methods or formats, especially into firmware, is a pain, and not generally worth the extra hassle. \
+**#9** \
+Stack-based architecture in general has many different lengths regarding different instructions, especially regarding actual logic-based communication and storing. Therefore, for things such as push that require some sort of address field along w/ the generic instruction types, fixed-instructional lengths are generally not preferred.
