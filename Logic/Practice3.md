@@ -86,3 +86,14 @@ The remain bits are for the tag \
 So Tag 17 bits | Block 10 bits | Offset 5 bits \
 **c)** \
 Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_10. 
+**#5** \
+**a)** \
+So the main memory size is 2^24 bytes or 16M x 8 \
+The cache size will be 127 x 64 x 8 \
+The block size is the 64 x 8 \
+2^24/2^6=2^18=256K which is 262144 blocks \
+**b)** \
+You have the tag sas 18 bits, offset at 6 bits which equal 24 bits \
+There are 16 M bits in the main memory address \
+This is fully associative so 2(24) + 16 = 64 \
+**c)** 
