@@ -100,7 +100,7 @@ This is fully associative, so 2(24) + 16 = 64 \
 Since it is fully associative, the main memory address 1D872_16 can be mapped to any cache block. \
 **#9** \
 **a)** \
-So for a 2 eay set, given that 32 blocks are batched into 2, you have 4 bits so, \
+So for a 2 way set, given that 32 blocks are batched into 2, you have 4 bits so, \
 2^4 \
 4 is the set. \
 Each block has 8 bytes so 2^3= 8 \
