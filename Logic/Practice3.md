@@ -61,4 +61,13 @@ X + (((Y + Z) x (V - W)) + Z) \
 In regards to direct vs indirect memory addressing: \
 One directly states the instructional address, and one stores it in the memory field instead of directly accessing it. Therefore, direct memory access is faster, but limited in regards to flexibility outside of speed. How one wants to use direct vs indirect memory addressing, and whether they want to address it or load instructions from a pointer, depends on the application and what they are trying to do. In general, my preference has been direct memory addressing. \
 **#23** \
-You are talking about a non-pipelined system and a 5 stage pipeline system. You already have 200ns and 40ns, plus the number of segments is already 5. The ratio and theoretical speedup potential (rounding and slight inaccuracies aside), should be around 5 as well. You can input the k-stage equation for execution times regarding uneven pipelines (see [here](https://cs.stackexchange.com/questions/21924/execution-time-of-an-uneven-pipeline)). However, I think this is unnessary given the inputs I already been given. More than likely it will also be around 5 in regards to clock cycles because that is the same ratio in regards to the number of stages, and that should be the maximum speedup nonetheless.
+You are talking about a non-pipelined system and a 5 stage pipeline system. You already have 200ns and 40ns, plus the number of segments is already 5. The ratio and theoretical speedup potential (rounding and slight inaccuracies aside), should be around 5 as well. You can input the k-stage equation for execution times regarding uneven pipelines (see [here](https://cs.stackexchange.com/questions/21924/execution-time-of-an-uneven-pipeline)). However, I think this is unnessary given the inputs I already been given. More than likely it will also be around 5 in regards to clock cycles because that is the same ratio in regards to the number of stages, and that should be the maximum speedup nonetheless. \
+**#28** \
+**a)** \
+Ceil(log_2(7)) = 3 bits \
+**b)** \
+Ceil(log_2(60)) = 6 bits \
+**c)** \
+Ciel(log_2(256 x 2^10)) = 18 bits \
+**d)** \
+Adding them together makes 27 bits, and since the instructions are 32 bits, 32-27 = 5 bits left
