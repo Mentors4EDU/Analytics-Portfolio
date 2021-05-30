@@ -101,8 +101,7 @@ Since it is fully associative, the main memory address 1D872_16 can be mapped to
 **#9** \
 **a)** \
 So for a 2 way set, given that 32 blocks are batched into 2, you have 4 bits so, \
-2^4 \
-4 is the set. \
+2^4, 4 is the set. \
 Each block has 8 bytes so 2^3= 8 \
 3 is the offset \
 And then 16-(4+3)=9 9 is the tag \
