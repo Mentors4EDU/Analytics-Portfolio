@@ -84,5 +84,5 @@ Since you have 1024 blocks, you have bits of 10 for identification \
 5 bits are used for the offset field \
 The remain bits are for the tag \
 So Tag 17 bits | Block 10 bits | Offset 5 bits \
-**c** \
-Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_19. 
+**c)** \
+Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_10. 
