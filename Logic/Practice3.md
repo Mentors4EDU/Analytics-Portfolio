@@ -77,3 +77,10 @@ So the main memory is 2^32 bytes \
 The cache size is 1024 blocks \
 The cache block size is 32 bytes \
 2^32/2^5=2^27=128M = 134217728 blocks \
+**b)** \
+So the total address is 32 bits. \
+Since you have 1024 blocks, you have bits of 10 for identification \
+5 bits are used for the offset field \
+The remain bits are for the tag \
+So Tag 17 bits | Block 10 bits | Offset 5 bits \
+**c**
