@@ -41,4 +41,9 @@ WX x WUV x Z + x + \
 (WXYUV x x + x)/(UXY + x) \
 WXYUV x x + x UXY + x / \
 **#14** \
-**a)**
+**a)** \
+W X Y Z - + x \
+W X (Y - Z) + x \
+W(X + (Y - Z)) x \
+W x (X + (Y - Z)) \
+**b)**
