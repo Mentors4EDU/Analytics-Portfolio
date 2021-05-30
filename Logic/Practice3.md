@@ -25,8 +25,12 @@ Stack-based architecture in general has many different lengths regarding differe
 X x Y + W x Z + V x U \
 XY x + WZ x + VU x \
 XY x + WZ x + + VU x \
-XY x WZ x VU x ++ \
+XY x WZ x VU x + + \
 Multiplication first, then addition, by high predecence or importance operation \
 **b)** \
 W x X + W (U x V + Z) \
-W x 
+W x X + W x UV x + Z \
+W x X + W x UV x Z + \
+WX x + WUV x Z + x \
+WX x WUV x Z + x + \
+**c)**
