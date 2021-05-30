@@ -72,6 +72,7 @@ Ciel(log_2(256 x 2^10)) = 18 bits \
 **d)** \
 Adding them together makes 27 bits, and since the instructions are 32 bits, 32-27 = 5 bits left
 # Chapter 6
+**#2** \
 **a)** \
 So the main memory is 2^32 bytes \
 The cache size is 1024 blocks \
@@ -83,4 +84,5 @@ Since you have 1024 blocks, you have bits of 10 for identification \
 5 bits are used for the offset field \
 The remain bits are for the tag \
 So Tag 17 bits | Block 10 bits | Offset 5 bits \
-**c**
+**c** \
+Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_19. 
