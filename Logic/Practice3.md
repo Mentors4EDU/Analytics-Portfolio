@@ -34,3 +34,11 @@ W x X + W x UV x Z + \
 WX x + WUV x Z + x \
 WX x WUV x Z + x + \
 **c)**
+(W x (X + Y x (U x V)))/(U x (X + Y)) \
+(W x (X + Y x UV x))/(U x XY +) \
+(W x (X + YUV x x))/(UXY + x) \
+(W x (XYUV x x +))/(UXY + x) \
+(WXYUV x x + x)/(UXY + x) \
+WXYUV x x + x UXY + x / \
+**#14** \
+**a)**
