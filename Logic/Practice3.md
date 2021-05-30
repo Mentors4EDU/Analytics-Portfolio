@@ -56,4 +56,7 @@ U V (W + (X x (Y + Z))) x + \
 X Y Z + V W - x Z + + \
 X (Y + Z) (V - W) x Z + + \
 X ((Y + Z) x (V - W)) Z + + \
-X + (((Y + Z) x (V - W)) + Z)
+X + (((Y + Z) x (V - W)) + Z) \
+**#20** \
+In regards to direct vs indirect memory addressing: \
+One directly states the instructional address, and one stores it in the memory field instead of directly accessing it. Therefore, direct memory access is faster, but limited in regards to flexibility outside of speed. How one wants to use direct vs indirect memory addressing, and whether they want to address it or load instructions from a pointer, depends on the application and what they are trying to do. In general, my preference have been direct memory addressing.
