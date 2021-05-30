@@ -71,3 +71,9 @@ Ceil(log_2(60)) = 6 bits \
 Ciel(log_2(256 x 2^10)) = 18 bits \
 **d)** \
 Adding them together makes 27 bits, and since the instructions are 32 bits, 32-27 = 5 bits left
+# Chapter 6
+**a)** \
+So the main memory is 2^32 bytes \
+The cache size is 1024 blocks \
+The cache block size is 32 bytes \
+2^32/2^5=2^27=128M = 134217728 blocks \
