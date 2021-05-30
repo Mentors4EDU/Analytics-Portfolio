@@ -110,6 +110,5 @@ so Tag 9 bits | Set 4 bits | Offset 3 bits \
 **b)** \
 So you have 32 blocks into 4 sets, so 32/4=8 8= 2^ 3 \
 The number of sets and offset is 3 \
-Since you have 2^16 bytes in main memory, \ 
-16-(3+3)=10 \
+Since you have 2^16 bytes in main memory, 16-(3+3)=10 \
 So, Tag is 10, Set is 3 and Offset is 3 bits.
