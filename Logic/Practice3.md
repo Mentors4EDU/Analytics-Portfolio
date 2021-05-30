@@ -85,7 +85,7 @@ Since you have 1024 blocks, you have bits of 10 for identification \
 The remain bits are for the tag \
 So Tag 17 bits | Block 10 bits | Offset 5 bits \
 **c)** \
-Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_10. 
+Using a variation of modular arithmetic, you can convert to binary, then get the cache, and then get the block index. The resulting conversion method should be a block index for a cache that is 799_10. \
 **#5** \
 **a)** \
 So the main memory size is 2^24 bytes or 16M x 8 \
