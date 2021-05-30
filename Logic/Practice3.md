@@ -97,3 +97,5 @@ You have the tag at 18 bits, offset at 6 bits, which equal 24 bits \
 There are 16M bits in the main memory address \
 This is fully associative, so 2(24) + 16 = 64 \
 **c)** 
+Since it is fully associative, the main memory address 1D872_16 can be mapped to any cache block.
+**#9** \
