@@ -47,3 +47,13 @@ W X (Y - Z) + x \
 W(X + (Y - Z)) x \
 W x (X + (Y - Z)) \
 **b)**
+U V W X Y Z + x + x + \
+U V W X (Y + Z) x + x + \
+U V W (X x (Y + Z)) + x + \
+U V (W + (X x (Y + Z))) x + \
+(U + (V x (W + (X x (Y + Z)))))
+**c)** \
+X Y Z + V W - x Z + + \
+X (Y + Z) (V - W) x Z + + \
+X ((Y + Z) x (V - W)) Z + + \
+X + (((Y + Z) x (V - W)) + Z)
