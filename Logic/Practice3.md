@@ -99,4 +99,17 @@ This is fully associative, so 2(24) + 16 = 64 \
 **c)**  \
 Since it is fully associative, the main memory address 1D872_16 can be mapped to any cache block. \
 **#9** \
-**a}**
+**a)** \
+So for a 2 eay set, given that 32 blocks are batched into 2, you have 4 bits so, \
+2^4 \
+4 is the set. \
+Each block has 8 bytes so 2^3= 8 \
+3 is the offset \
+And then 16-(4+3)=9 9 is the tag \
+so Tag 9 bits | Set 4 bits | Offset 3 bits \
+**b)** \
+So you have 32 blocks into 4 sets, so 32/4=8 8= 2^ 3 \
+The number of sets and offset is 3 \
+Since you have 2^16 bytes in main memory, \ 
+16-(3+3)=10 \
+So, Tag is 10, Set is 3 and Offset is 3 bits.
