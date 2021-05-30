@@ -16,3 +16,6 @@ Byte order is 0x104...107 \
 Little: 88 | 88 | 14 | 14 \
 Big: 14 | 14 | 88 | 88 \
 Byte order is 0x108...10B
+
+**#7** \
+The data is not read correctly, because the byte orders are read and stored differently. For example, you can store in both decimal format or hexi or in binary to hexi versus binary to decimal. Since you have different byte orders and byte order capacities, the data has a higher chance of being formatted wrongly, being corrupted, or being needed to be converted to the right format. This can still be manageable and work out if done correctly from a software standpoint, but integrating conversion methods or formats, especially into firmware, is a pain, and not generally worth the extra hassle.
