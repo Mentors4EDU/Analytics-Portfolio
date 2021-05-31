@@ -110,4 +110,29 @@ so Tag 9 bits | Set 4 bits | Offset 3 bits \
 So you have 32 blocks into 4 sets, so 32/4=8 8= 2^ 3 \
 The number of sets and offset is 3 \
 Since you have 2^16 bytes in main memory, 16-(3+3)=10 \
-So, Tag is 10, Set is 3 and Offset is 3 bits.
+So, Tag is 10, Set is 3 and Offset is 3 bits. \
+**#18** \
+The table is as follows:
+| Virtual Page | Frame | Valid Bit |
+|--------------|-------|-----------|
+| 0            | 1     | 1         |
+| 1            |       | 0         |
+| 2            | 0     | 1         |
+| 3            | 3     | 1         |
+| 4            |       | 0         |
+| 5            |       | 0         |
+| 6            | 2     | 1         |
+| 7            |       | 0         |
+
+0 is mapped w/ 1, 2 is mapped 1/ 0, 3 is mapped w/3, and 6 is mapped w/ 2 for virtual and physical memory. \
+**#25** \
+For log2( \
+a) 16MB is 24 bits \
+b) 2MB is 21 bits \
+c) The number of entries is 16MB/1KB = 2^24/2^10 so 2^14 max entries \
+d) The number of bits for a virtual memory address is 14, since you have 1024 bytes, 14-10= 4. \
+The page number is 14 bits and the offset is 10 bits. To access a byte with a page is 1 bits. \
+For conversion, you have 14 bits mapped to 11 so 1524_10 being the equavalent for hexadecimal (5F4)_16 \
+So the frame is 0000 0000 010 to offset 01 1111 01000 \
+e) Given 0x400 and you have an equivalent value of 1024, \
+1024 is at offset 0 in frame 1 so the virtaul address translation is 0
