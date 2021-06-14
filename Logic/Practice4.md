@@ -14,7 +14,7 @@ $5000 is the initial cost, $54.51 is the target upgrade cost instead of $60.7995
 **#11** \
 The four types are: Programmed I/O, Interrupt-Driven I/O, Direct Memory Access (DMA), and Channel I/O \
 Programmed I/O is usually best suited for embedded systems processing and overhauling I/O requests for different controlled intervals. \
-Interrupt-Driven I/O works well for single-user systems and handle data outputs one byte at a time or in small incremental blocks. \
+Interrupt-Driven I/O works well for single-user systems and handles data outputs one byte at a time or in small incremental blocks. \
 DMA is usually utilized in disk controllers, and graphic/sound cards, or network cards. The data transfer rate is more optimal. \
 Channel I/O works well on complex mainframe systems and server architecture given it can perform more difficult tasks that require a higher degree of logic applied to each task as opposed to just transferring data. \
 **#21** \
