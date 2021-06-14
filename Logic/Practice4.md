@@ -19,12 +19,16 @@ DMA is usually utilized in disk controllers, and graphic/sound cards, or network
 Channel I/O works well on complex mainframe systems and server architecture given it can perform more difficult tasks that require a higher degree of logic applied to each task as opposed to just transferring data. \
 **#21** \
 The seek time is in regards to the time taken by the disk arm to reposition itself for the data track. Rotational delay is time taken by the required sector for repositioning itself for the read/write head. Transfer time is the time to read and access the data from the disk and the time is rotational delay + seek time. \
-**28** \
+**#28** \
 **a)** \
 The capacity = 4 * 1024 *128 *512 in regards to Surfaces * Tracks * Sectors * Bytes = 256MB \
 **b)** \
 The latency is 5ms for the seek + 60sec*1000ms/10000sec= 5+6=11ms \
-**33** \
+**#33** \
 In regards to sectors per cluser: less space and disk usage is more efficient. \
 However, the disadvantages include increased disk directy size and essentially a longer time in regards to data access over just space and storage. \
-**48**
+**#48** \
+**a)** \
+RAID-0 can't tolerate a single disk failure in the example \
+**b)** \
+RAID-1, 2, and 6 can tolerate more than one simultaneous disk failure.
