@@ -26,7 +26,7 @@ The capacity = 4 * 1024 *128 *512 in regards to Surfaces * Tracks * Sectors * By
 The latency is 5ms for the seek + 60sec*1000ms/10000sec= 5+6=11ms \
 **#33** \
 In regards to sectors per cluster: less space and disk usage is more efficient. \
-However, the disadvantages include increased disk directly size and essentially a longer time in regards to data access over just space and storage. \
+However, the disadvantages include increased disk directory size and essentially a longer time in regards to data access over just space and storage. \
 **#48** \
 **a)** \
 RAID-0 can't tolerate a single disk failure in the example \
