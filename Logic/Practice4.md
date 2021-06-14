@@ -10,4 +10,6 @@ The best deal in obviously the CPU \
 The highest speed would be the Disk (not considering costs) \
 **c)** \
 The breakeven point will be the CPU price with Disk percentage + $5000 so 1.3158(41.4284)+$5000= $5054.51 \
-$5000 is the inital cost, $54.51 is the target upgrade cost instead of $60.7995.
+$5000 is the inital cost, $54.51 is the target upgrade cost instead of $60.7995. \
+**#11**
+The four types are: Programmed I/O, Interrupt-Driven I/O, Direct Memory Access (DMA), and Channel I/O
