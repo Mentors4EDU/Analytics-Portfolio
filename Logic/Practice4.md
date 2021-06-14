@@ -10,10 +10,10 @@ The best deal in obviously the CPU \
 The highest speed would be the Disk (not considering costs) \
 **c)** \
 The breakeven point will be the CPU price with Disk percentage + $5000 so 1.3158(41.4284)+$5000= $5054.51 \
-$5000 is the inital cost, $54.51 is the target upgrade cost instead of $60.7995. \
+$5000 is the initial cost, $54.51 is the target upgrade cost instead of $60.7995. \
 **#11** \
 The four types are: Programmed I/O, Interrupt-Driven I/O, Direct Memory Access (DMA), and Channel I/O \
-Programmed I/O is usually best suited for embedded systems processing and overhauling I/O requests for different controlled intrevals. \
+Programmed I/O is usually best suited for embedded systems processing and overhauling I/O requests for different controlled intervals. \
 Interrupt-Driven I/O works well for single-user systems and handle data outputs one byte at a time or in small incremental blocks. \
 DMA is usually utilized in disk controllers, and graphic/sound cards, or network cards. The data transfer rate is more optimal. \
 Channel I/O works well on complex mainframe systems and server architecture given it can perform more difficult tasks that require a higher degree of logic applied to each task as opposed to just transferring data. \
@@ -25,8 +25,8 @@ The capacity = 4 * 1024 *128 *512 in regards to Surfaces * Tracks * Sectors * By
 **b)** \
 The latency is 5ms for the seek + 60sec*1000ms/10000sec= 5+6=11ms \
 **#33** \
-In regards to sectors per cluser: less space and disk usage is more efficient. \
-However, the disadvantages include increased disk directy size and essentially a longer time in regards to data access over just space and storage. \
+In regards to sectors per cluster: less space and disk usage is more efficient. \
+However, the disadvantages include increased disk directly size and essentially a longer time in regards to data access over just space and storage. \
 **#48** \
 **a)** \
 RAID-0 can't tolerate a single disk failure in the example \
