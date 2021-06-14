@@ -23,4 +23,8 @@ The seek time is in regards to the time taken by the disk arm to reposition itse
 **a)** \
 The capacity = 4 * 1024 *128 *512 in regards to Surfaces * Tracks * Sectors * Bytes = 256MB \
 **b)** \
-The latency is 5ms for the seek + 60sec*1000ms/10000sec= 5+6=11ms
+The latency is 5ms for the seek + 60sec*1000ms/10000sec= 5+6=11ms \
+**33** \
+In regards to sectors per cluser: less space and disk usage is more efficient. \
+However, the disadvantages include increased disk directy size and essentially a longer time in regards to data access over just space and storage. \
+**48**
