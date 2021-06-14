@@ -16,4 +16,6 @@ The four types are: Programmed I/O, Interrupt-Driven I/O, Direct Memory Access (
 Programmed I/O is usually best suited for embedded systems processing and overhauling I/O requests for different controlled intrevals. \
 Interrupt-Driven I/O works well for single-user systems and handle data outputs one byte at a time or in small incremental blocks. \
 DMA is usually utilized in disk controllers, and graphic/sound cards, or network cards. The data transfer rate is more optimal. \
-Channel I/O works well on complex mainframe systems and server architecture given it can perform more difficult tasks that require a higher degree of logic applied to each task as opposed to just transferring data.
+Channel I/O works well on complex mainframe systems and server architecture given it can perform more difficult tasks that require a higher degree of logic applied to each task as opposed to just transferring data. \
+**#21** \
+The seek time is in regards to the time taken by the disk arm to reposition itself for the data track. Rotational delay is time taken by the required sector for repositioning itself for the read/write head. Transfer time is the time to read and access the data from the disk and the time is rotational delay + seek time.
