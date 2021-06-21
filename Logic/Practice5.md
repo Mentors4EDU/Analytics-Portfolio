@@ -36,4 +36,12 @@ SPMD stands for Single Program/Multiple Data while SIMD is Single Instruction/Mu
 **#18** \
 VLIW architectures focus on parallelism in respect to instruction-levels. So you have the main unit, multiple levels, and data streams, sending data to the direct memory-level access. There is also a model in regards to super-scalar architectures which have multiple procesing units with multiple data streams running various operations through simultaneously ran processes. Other things could include shared and distributed memory, sequent computing, or interconnected networks. There are many variations of real world software defined computing networks that utilize similar architectures, even on large-scale mainframes. \
 **#22** \
-UMA is Unform Memory Access while NUMA is Non-Uniform Memroy Access. UMA utilizes a shared memory architecture in regards to parallel computing over a shared memory design in regards to multithreaded processing. They also utilize different communication methods, have different access time, and the execution is different. Data is also indexed differently given the architecture and design differences.
+UMA is Unform Memory Access while NUMA is Non-Uniform Memroy Access. UMA utilizes a shared memory architecture in regards to parallel computing over a shared memory design in regards to multithreaded processing. They also utilize different communication methods, have different access time, and the execution is different. Data is also indexed differently given the architecture and design differences. \
+**24** \
+**a)** \
+
+**b)** \
+
+**c)** \
+
+**d)**
