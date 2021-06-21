@@ -6,7 +6,7 @@ In regards to direct implementation:
 3. Approximation
 4. 3 Different Register Operands
 5. Few Addressing modes
-6. Uniform pipeling time
+6. Uniform pipelining time
 7. Fixed-length/short direct instructions
 
 In regards to what couldn't be implemented:
