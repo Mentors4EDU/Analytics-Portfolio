@@ -24,4 +24,6 @@ A minimum of 2 registers need to be directly saved and stored as the procedure c
 **c)** \
 Since the recently saved pointer is mantained, when the most recent procedure returns a process, then the register window is restored back for usage. \
 **d)** \
-Given that you already have 4 filled registers, a single register window would need to be saved for a new procedure.
+Given that you already have 4 filled registers, a single register window would need to be saved for a new procedure. \
+**#12** \
+The four categories are: SISD (Single Instruction Single Data Stream), SIMD (Single Instruction Multiple Data Steam), MISD (Multiple Instruction Single Data Stream), MIMD (Multiple Instruction Multiple Data Steam).
