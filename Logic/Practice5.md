@@ -23,5 +23,5 @@ Since a single set of registers are implemented be each procedure execution, the
 A minimum of 2 registers need to be directly saved and stored as the procedure calls. \
 **c)** \
 Since the recently saved pointer is mantained, when the most recent procedure returns a process, then the register window is restored back for usage. \
-**d)** \ 
+**d)** \
 Given that you already have 4 filled registers, a single register window would need to be saved for a new procedure.
