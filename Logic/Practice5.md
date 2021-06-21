@@ -46,6 +46,6 @@ UMA is Uniform Memory Access while NUMA is Non-Uniform Memory Access. UMA utiliz
 **b)** \
 No they can't because some switches would block each other and therefore, this wouldn't be possible to occur. \
 **c)** \
-p3 -> M2, and ather processors trying to access M2 can't because of the p0 -> M2 connection \
+p3 -> M2, and other processors trying to access M2 can't because of the p0 -> M2 connection \
 **d)** \
 p2 -> M6 doesn't have a similar switching route, therefore, it isn't blocked
