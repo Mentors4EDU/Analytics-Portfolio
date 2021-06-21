@@ -32,4 +32,4 @@ SIMD: Single control unit with mulpile levels for the processor streaming data \
 MISD: More of a form of vector processing, that is done through the same data stream flow but a linear processing array \
 MIMD: Multiple instructions done through a distributed or sequent array of interconnected processors \
 **#16** \
-SPMD stands for Single Program/Multiple Data while SIMD is Single Instruction/Multiple Data. SPMD utilizes processoring executing the same operation, and is oriented towards shared/parallel computing over multi-threaded processing for many pieced of data on the same operation i.e (SIMD).
+SPMD stands for Single Program/Multiple Data while SIMD is Single Instruction/Multiple Data. SPMD utilizes processing/executing the same operation, and is oriented towards shared/parallel computing over multi-threaded processing for many pieces of data on the same operation i.e (SIMD).
