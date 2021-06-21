@@ -26,4 +26,8 @@ Since the recently saved pointer is mantained, when the most recent procedure re
 **d)** \
 Given that you already have 4 filled registers, a single register window would need to be saved for a new procedure. \
 **#12** \
-The four categories are: SISD (Single Instruction Single Data Stream), SIMD (Single Instruction Multiple Data Steam), MISD (Multiple Instruction Single Data Stream), MIMD (Multiple Instruction Multiple Data Steam).
+The four categories are: SISD (Single Instruction Single Data Stream), SIMD (Single Instruction Multiple Data Steam), MISD (Multiple Instruction Single Data Stream), MIMD (Multiple Instruction Multiple Data Steam). \
+SISD: Used for single operations for single data sets and streams (one at a time instructions, generally slow) \
+SIMD: Single control unit with mulpile levels for the processor streaming data \
+MISD: More of a form of vector processing, that is done through the same data stream flow but a linear processing array \
+MIMD: Multiple instructions done through a distributed or sequent array of interconnected processors \
